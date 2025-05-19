@@ -2,7 +2,7 @@ from django.test import TestCase
 from django.urls import reverse
 
 
-class TestDemoTemnplateView(TestCase):
+class TestDemoTemplateView(TestCase):
 
     @classmethod
     def setUpTestData(cls):

@@ -4,7 +4,7 @@ from django.urls import reverse
 from ..views import DemoTemplateView
 
 
-class TestDemoTemnplateView(TestCase):
+class TestDemoTemplateView(TestCase):
 
     @classmethod
     def setUpTestData(cls):
